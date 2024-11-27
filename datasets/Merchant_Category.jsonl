@@ -1,0 +1,15 @@
+{"v_id": "misc_pos", "v_type": "Merchant_Category", "attributes": {"Category": "misc_pos", "ML_ctid": 136314880, "ML_degCen": 580760, "ML_batch_no": 0}}
+{"v_id": "shopping_net", "v_type": "Merchant_Category", "attributes": {"Category": "shopping_net", "ML_ctid": 137363456, "ML_degCen": 662204, "ML_batch_no": 0}}
+{"v_id": "grocery_net", "v_type": "Merchant_Category", "attributes": {"Category": "grocery_net", "ML_ctid": 142606336, "ML_degCen": 383770, "ML_batch_no": 0}}
+{"v_id": "gas_transport", "v_type": "Merchant_Category", "attributes": {"Category": "gas_transport", "ML_ctid": 148897792, "ML_degCen": 766388, "ML_batch_no": 0}}
+{"v_id": "personal_care", "v_type": "Merchant_Category", "attributes": {"Category": "personal_care", "ML_ctid": 150994944, "ML_degCen": 2218, "ML_batch_no": 0}}
+{"v_id": "food_dining", "v_type": "Merchant_Category", "attributes": {"Category": "food_dining", "ML_ctid": 146800640, "ML_degCen": 664822, "ML_batch_no": 0}}
+{"v_id": "entertainment", "v_type": "Merchant_Category", "attributes": {"Category": "entertainment", "ML_ctid": 162529280, "ML_degCen": 645166, "ML_batch_no": 0}}
+{"v_id": "health_fitness", "v_type": "Merchant_Category", "attributes": {"Category": "health_fitness", "ML_ctid": 144703488, "ML_degCen": 553580, "ML_batch_no": 0}}
+{"v_id": "travel", "v_type": "Merchant_Category", "attributes": {"Category": "travel", "ML_ctid": 155189248, "ML_degCen": 1318, "ML_batch_no": 0}}
+{"v_id": "fraud_Collier Inc", "v_type": "Merchant_Category", "attributes": {"Category": "", "ML_ctid": 0, "ML_degCen": 0, "ML_batch_no": 0}}
+{"v_id": "grocery_pos", "v_type": "Merchant_Category", "attributes": {"Category": "grocery_pos", "ML_ctid": 139460608, "ML_degCen": 841494, "ML_batch_no": 0}}
+{"v_id": "shopping_pos", "v_type": "Merchant_Category", "attributes": {"Category": "shopping_pos", "ML_ctid": 141557760, "ML_degCen": 877988, "ML_batch_no": 0}}
+{"v_id": "kids_pets", "v_type": "Merchant_Category", "attributes": {"Category": "kids_pets", "ML_ctid": 141557761, "ML_degCen": 16760, "ML_batch_no": 0}}
+{"v_id": "misc_net", "v_type": "Merchant_Category", "attributes": {"Category": "misc_net", "ML_ctid": 138412032, "ML_degCen": 412400, "ML_batch_no": 0}}
+{"v_id": "home", "v_type": "Merchant_Category", "attributes": {"Category": "home", "ML_ctid": 150994945, "ML_degCen": 590124, "ML_batch_no": 0}}
